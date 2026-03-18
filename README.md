@@ -8,8 +8,8 @@
 - ⚙️ Gießereimechaniker (metallurgy industry)
 - 📚 Currently learning Linux, Git & DevOps
 - 🖥️ Building my own HomeLab (Proxmox, Docker)
+- 🌍 Based in Germany 🇩🇪 (NRW)
 - 🎯 Goal: Become job-ready in IT within 2–3 years
-- 📍 Based in Germany 🇩🇪
 
 ---
 
@@ -23,6 +23,22 @@
 
 ---
 
+## 🧪 HomeLab
+
+💡 Self-hosted infrastructure running on Proxmox
+
+- 🖥️ Virtualization: Proxmox VE  
+- 📦 Containers: LXC / Docker  
+- 🌐 Networking: VLAN, VPN (WireGuard)  
+- ☁️ Services:
+  - Plex Media Server  
+  - Home Assistant  
+  - Paperless-ngx  
+  - Nginx Proxy Manager  
+  - AdGuard  
+
+---
+
 ## 📂 Projects
 
 ### 🚀 Linux Notes – DevOps Journey
@@ -31,10 +47,9 @@ Includes:
 - Linux basics  
 - Commands & cheat sheets  
 - Hands-on labs  
-- Troubleshooting notes  
+- Troubleshooting  
 
-👉 Check it here:  
-https://github.com/Peter-Ignatzek/linux-notes
+👉 https://github.com/Peter-Ignatzek/linux-notes
 
 ---
 
@@ -42,8 +57,8 @@ https://github.com/Peter-Ignatzek/linux-notes
 
 - Linux fundamentals 🐧  
 - Command line mastery  
-- System administration basics  
-- Networking  
+- System administration  
+- Networking basics  
 
 ---
 
@@ -56,4 +71,4 @@ https://github.com/Peter-Ignatzek/linux-notes
 ## 📫 Contact
 
 - LinkedIn: coming soon  
-- Open to opportunities in IT / DevOps 🚀
+- Open to IT / DevOps opportunities 🚀

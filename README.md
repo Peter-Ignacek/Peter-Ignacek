@@ -64,7 +64,7 @@ Includes:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Ignatzek&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Ignacek&show_icons=true&theme=dark)
 
 ---
 

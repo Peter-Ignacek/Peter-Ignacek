@@ -35,7 +35,12 @@
   - Home Assistant  
   - Paperless-ngx  
   - Nginx Proxy Manager  
-  - AdGuard  
+  - AdGuard
+  - Uptimekuma
+  - Duplicati
+  - PBS Proxmox Backup Server
+  - Unifi Network
+  - Unifi Protect 
 
 ---
 
@@ -59,6 +64,19 @@ Includes:
 - Command line mastery  
 - System administration  
 - Networking basics  
+
+---
+
+## 🚀 Next Steps (Learning Roadmap)
+
+- Containerization (Docker) 🐳  
+- CI/CD Pipelines ⚙️  
+- Cloud Providers (AWS, Azure or Hetzner) ☁️  
+- Container Orchestration (Kubernetes) ☸️  
+- Monitoring & Observability 📊 (Prometheus, Grafana)  
+- Infrastructure as Code (IaC, Terraform, Ansible) 🏗️  
+- Scripting (Bash, Python) 🧠  
+- Version Control (Git) 🔧
 
 ---
 

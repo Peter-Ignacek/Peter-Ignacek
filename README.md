@@ -31,7 +31,7 @@
 - 📦 Containers: LXC / Docker  
 - 🌐 Networking: VLAN, VPN (WireGuard)  
 - ☁️ Services:
-  - Plex Media Server  
+  - Plex Media Server  - https://github.com/Peter-Ignacek/homelab-plex
   - Home Assistant  
   - Paperless-ngx  
   - Nginx Proxy Manager  

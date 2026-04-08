@@ -41,7 +41,7 @@
   - PBS Proxmox Backup Server
   - Unifi Network
   - Unifi Protect
-  - homelab-ups 
+  - homelab-ups - https://github.com/Peter-Ignacek/homelab-ups
 
 ---
 

@@ -40,7 +40,8 @@
   - Duplicati
   - PBS Proxmox Backup Server
   - Unifi Network
-  - Unifi Protect 
+  - Unifi Protect
+  - homelab-ups 
 
 ---
 

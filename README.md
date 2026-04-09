@@ -21,7 +21,8 @@
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000?style=for-the-badge&logo=proxmox)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-
+![UniFi Network](https://img.shields.io/badge/UniFi%20Network-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![UniFi Protect](https://img.shields.io/badge/UniFi%20Protect-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ---
 
 ## 🧪 HomeLab

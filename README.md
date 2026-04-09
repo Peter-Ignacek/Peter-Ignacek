@@ -32,7 +32,7 @@
 - 🌐 Networking: VLAN, VPN (WireGuard)  
 - ☁️ Services:
   - Plex Media Server  - https://github.com/Peter-Ignacek/homelab-plex
-  - Home Assistant  
+  - Home Assistant  - https://github.com/Peter-Ignacek/home-assistant-multi-site
   - Paperless-ngx  
   - Nginx Proxy Manager  
   - AdGuard

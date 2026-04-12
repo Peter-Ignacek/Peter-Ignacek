@@ -41,8 +41,8 @@
   - Uptimekuma
   - Duplicati
   - PBS Proxmox Backup Server
-  - Unifi Network
-  - Unifi Protect
+  - Unifi Network - https://github.com/Peter-Ignacek/UniFi-Network 🚧 Repository under construction
+  - Unifi Protect - https://github.com/Peter-Ignacek/UniFi-Protect 🚧 Repository under construction
   - homelab-ups - https://github.com/Peter-Ignacek/homelab-ups
 
 ---

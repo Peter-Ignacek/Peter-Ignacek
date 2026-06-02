@@ -38,7 +38,7 @@
   - Paperless-ngx  
   - Nginx Proxy Manager  
   - AdGuard
-  - Uptimekuma
+  - Uptimekuma - https://github.com/Peter-Ignacek/homelab-uptime-kuma/tree/main
   - Duplicati
   - PBS Proxmox Backup Server
   - Unifi Network - https://github.com/Peter-Ignacek/UniFi-Network 🚧 Repository under construction

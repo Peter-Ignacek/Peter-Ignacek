@@ -29,21 +29,25 @@
 
 💡 Self-hosted infrastructure running on Proxmox
 
-- 🖥️ Virtualization: Proxmox VE  
-- 📦 Containers: LXC / Docker  
-- 🌐 Networking: VLAN, VPN (WireGuard)  
-- ☁️ Services:
-  - Plex Media Server  - https://github.com/Peter-Ignacek/homelab-plex
-  - Home Assistant  - https://github.com/Peter-Ignacek/home-assistant-multi-site
-  - Paperless-ngx  
-  - Nginx Proxy Manager  
-  - AdGuard
-  - Uptimekuma - https://github.com/Peter-Ignacek/homelab-uptime-kuma/tree/main
-  - Duplicati
-  - PBS Proxmox Backup Server
-  - Unifi Network - https://github.com/Peter-Ignacek/UniFi-Network 🚧 Repository under construction
-  - Unifi Protect - https://github.com/Peter-Ignacek/UniFi-Protect 🚧 Repository under construction
-  - homelab-ups - https://github.com/Peter-Ignacek/homelab-ups
+- 🖥️ **Virtualization:** Proxmox VE  
+- 📦 **Containers:** LXC / Docker  
+- 🌐 **Networking:** VLAN, VPN (WireGuard)
+
+### Services & repositories
+
+| Area | Service | Repository | Status |
+|---|---|---|---|
+| Media | Plex Media Server | [homelab-plex](https://github.com/Peter-Ignacek/homelab-plex) | ✅ Active |
+| Smart Home | Home Assistant | [home-assistant-multi-site](https://github.com/Peter-Ignacek/home-assistant-multi-site) | ✅ Active |
+| Documents | Paperless-ngx | Planned | 📝 To document |
+| Reverse Proxy | Nginx Proxy Manager | Planned | 📝 To document |
+| DNS / Security | AdGuard | Planned | 📝 To document |
+| Monitoring | Uptime Kuma | [homelab-uptime-kuma](https://github.com/Peter-Ignacek/homelab-uptime-kuma) | ✅ Active |
+| Backup | Duplicati | Planned | 📝 To document |
+| Backup | Proxmox Backup Server | Planned | 📝 To document |
+| Network | UniFi Network | [UniFi-Network](https://github.com/Peter-Ignacek/UniFi-Network) | 🚧 In progress |
+| Security | UniFi Protect | [UniFi-Protect](https://github.com/Peter-Ignacek/UniFi-Protect) | 🚧 In progress |
+| Power | UPS Monitoring | [homelab-ups](https://github.com/Peter-Ignacek/homelab-ups) | ✅ Active |
 
 ---
 

@@ -49,6 +49,13 @@
 | Security | UniFi Protect | [UniFi-Protect](https://github.com/Peter-Ignacek/UniFi-Protect) | 🚧 In progress |
 | Power | UPS Monitoring | [homelab-ups](https://github.com/Peter-Ignacek/homelab-ups) | ✅ Active |
 
+### Uptime Kuma Status Pages
+
+| Instance | Location | Status Page |
+|---|---|---|
+| Uptime Kuma DE | Germany | [Open DE Status Page](https://kuma.de.ignacek.com/status/home) |
+| Uptime Kuma PL | Poland | [Open PL Status Page](https://kuma.pl.ignacek.com/status/home) |
+
 ---
 
 ## 📂 Projects

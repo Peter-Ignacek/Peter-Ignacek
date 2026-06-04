@@ -18,6 +18,10 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge&logo=anthropic)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000?style=for-the-badge&logo=proxmox)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
@@ -60,6 +64,16 @@
 
 ## 📂 Projects
 
+### 🤖 AI Codex Workflow Lab
+🧰 My personal AI workflow lab for Codex, Claude, ChatGPT, Home Assistant, Notion, automation prompts and learning notes.  
+Includes:
+- reusable AI start prompts  
+- DryRun → approval → apply → verify workflows  
+- MCP, email, calendar and Home Assistant safety notes  
+- project templates and learning notes  
+
+👉 https://github.com/Peter-Ignacek/AI-Codex-Workflow-Lab
+
 ### 🚀 Linux Notes – DevOps Journey
 📘 My personal learning repository  
 Includes:
@@ -78,6 +92,7 @@ Includes:
 - Command line mastery  
 - System administration  
 - Networking basics  
+- AI-assisted documentation and workflow building  
 
 ---
 

@@ -19,6 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![Codex](https://img.shields.io/badge/Codex-000?style=for-the-badge&logo=openai)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai)
 ![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge&logo=anthropic)
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
@@ -52,6 +53,7 @@
 | Network | UniFi Network | [UniFi-Network](https://github.com/Peter-Ignacek/UniFi-Network) | 🚧 In progress |
 | Security | UniFi Protect | [UniFi-Protect](https://github.com/Peter-Ignacek/UniFi-Protect) | 🚧 In progress |
 | Power | UPS Monitoring | [homelab-ups](https://github.com/Peter-Ignacek/homelab-ups) | ✅ Active |
+| AI Workflow | Codex Workflow Lab | [AI-Codex-Workflow-Lab](https://github.com/Peter-Ignacek/AI-Codex-Workflow-Lab) | 🚧 In progress |
 
 ### Uptime Kuma Status Pages
 
@@ -64,15 +66,6 @@
 
 ## 📂 Projects
 
-### 🤖 AI Codex Workflow Lab
-🧰 My personal AI workflow lab for Codex, Claude, ChatGPT, Home Assistant, Notion, automation prompts and learning notes.  
-Includes:
-- reusable AI start prompts  
-- DryRun → approval → apply → verify workflows  
-- MCP, email, calendar and Home Assistant safety notes  
-- project templates and learning notes  
-
-👉 https://github.com/Peter-Ignacek/AI-Codex-Workflow-Lab
 
 ### 🚀 Linux Notes – DevOps Journey
 📘 My personal learning repository  

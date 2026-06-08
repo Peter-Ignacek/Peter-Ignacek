@@ -56,6 +56,7 @@
 | Network | UniFi Network | [UniFi-Network](https://github.com/Peter-Ignacek/UniFi-Network) | 🚧 In progress |
 | Security | UniFi Protect | [UniFi-Protect](https://github.com/Peter-Ignacek/UniFi-Protect) | 🚧 In progress |
 | Power | UPS Monitoring | [homelab-ups](https://github.com/Peter-Ignacek/homelab-ups) | ✅ Active |
+| AI Workflow | OpenClaw / Clawbot | [openclaw-clawbot.md](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/openclaw-clawbot.md) | ✅ Active |
 | AI Workflow | Codex Workflow Lab | [AI-Codex-Workflow-Lab](https://github.com/Peter-Ignacek/AI-Codex-Workflow-Lab) | 🚧 In progress |
 
 ### Uptime Kuma Status Pages

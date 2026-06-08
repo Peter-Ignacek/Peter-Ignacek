@@ -48,6 +48,8 @@
 | Reverse Proxy | Nginx Proxy Manager | Planned | 📝 To document |
 | DNS / Security | AdGuard | Planned | 📝 To document |
 | Monitoring | Uptime Kuma | [homelab-uptime-kuma](https://github.com/Peter-Ignacek/homelab-uptime-kuma) | ✅ Active |
+| Inventory / DCIM | NetBox | [homelab-netbox](https://github.com/Peter-Ignacek/homelab-netbox) | ✅ Active |
+| Operations | Backup & Maintenance Control Board | Planned | 📝 To document |
 | Backup | Duplicati | Planned | 📝 To document |
 | Backup | Proxmox Backup Server | Planned | 📝 To document |
 | Network | UniFi Network | [UniFi-Network](https://github.com/Peter-Ignacek/UniFi-Network) | 🚧 In progress |

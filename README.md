@@ -42,6 +42,7 @@
 
 | Area | Service | Repository | Status |
 |---|---|---|---|
+| Virtualization | Proxmox VE | [homelab-proxmox](https://github.com/Peter-Ignacek/homelab-proxmox) | ✅ Active |
 | Media | Plex Media Server | [homelab-plex](https://github.com/Peter-Ignacek/homelab-plex) | ✅ Active |
 | Smart Home | Home Assistant | [home-assistant-multi-site](https://github.com/Peter-Ignacek/home-assistant-multi-site) | ✅ Active |
 | Documents | Paperless-ngx | Planned | 📝 To document |

@@ -2,6 +2,8 @@
 
 ### 🚀 Transitioning into IT (Linux / DevOps)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piotr%20Ignaczek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-ignaczek-172040209/)
+
 ---
 
 ## 👨‍💻 About me
@@ -117,5 +119,5 @@ Includes:
 
 ## 📫 Contact
 
-- LinkedIn: coming soon  
+- LinkedIn: [Piotr Ignaczek](https://www.linkedin.com/in/piotr-ignaczek-172040209/)
 - Open to IT / DevOps opportunities 🚀

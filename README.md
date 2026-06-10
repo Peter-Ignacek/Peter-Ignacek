@@ -119,5 +119,5 @@ Includes:
 
 ## 📫 Contact
 
-- LinkedIn: [Piotr Ignaczek](https://www.linkedin.com/in/piotr-ignaczek-172040209/)
+- LinkedIn: [Piotr Ignacek](https://www.linkedin.com/in/piotr-ignatzek-172040209/)
 - Open to IT / DevOps opportunities 🚀

@@ -2,7 +2,7 @@
 
 ### 🚀 Transitioning into IT (Linux / DevOps)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piotr%20Ignatzek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-ignatzek-172040209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-<HOMELAB_JEDI>%20Ignatzek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<HOMELAB_JEDI>-ignatzek-172040209/)
 
 ---
 
@@ -120,5 +120,5 @@ Includes:
 
 ## 📫 Contact
 
-- LinkedIn: [Piotr Ignacek](https://www.linkedin.com/in/piotr-ignatzek-172040209/)
+- LinkedIn: [<HOMELAB_JEDI> Ignacek](https://www.linkedin.com/in/<HOMELAB_JEDI>-ignatzek-172040209/)
 - Open to IT / DevOps opportunities 🚀

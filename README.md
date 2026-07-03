@@ -1,4 +1,4 @@
-# Hi 👋 I'm Peter Ignatzek
+﻿# Hi 👋 I'm Peter Ignatzek
 
 ### 🚀 Transitioning into IT (Linux / DevOps)
 
@@ -69,8 +69,8 @@
 
 | Instance | Location | Status Page |
 |---|---|---|
-| Uptime Kuma DE | Germany | [Open DE Status Page](https://kuma.de.ignacek.com/status/home) |
-| Uptime Kuma PL | Poland | [Open PL Status Page](https://kuma.pl.ignacek.com/status/home) |
+| Uptime Kuma DE | Germany | [Open DE Status Page](https://status-de.example.com/status/home) |
+| Uptime Kuma PL | Poland | [Open PL Status Page](https://status-pl.example.com/status/home) |
 
 ---
 

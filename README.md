@@ -51,6 +51,9 @@
 | Media | Plex Media Server | [homelab-plex](https://github.com/Peter-Ignacek/homelab-plex) | ✅ Active |
 | Smart Home | Home Assistant | [home-assistant-multi-site](https://github.com/Peter-Ignacek/home-assistant-multi-site) | ✅ Active |
 | Documents | Paperless-ngx | Planned | 📝 To document |
+| Business administration | Invoice Ninja — self-hosted invoicing / business administration | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/invoice-ninja.md) | ✅ Active |
+| PDF processing | Stirling PDF — self-hosted PDF processing | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/stirling-pdf.md) | ✅ Active |
+| Document signing | DocuSeal — self-hosted document signing | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/docuseal.md) | ✅ Active |
 | Reverse Proxy | Nginx Proxy Manager | Planned | 📝 To document |
 | DNS / Security | AdGuard | Planned | 📝 To document |
 | Monitoring | Uptime Kuma | [homelab-uptime-kuma](https://github.com/Peter-Ignacek/homelab-uptime-kuma) | ✅ Active |

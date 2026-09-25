@@ -50,17 +50,17 @@
 | Virtualization | Proxmox VE | [homelab-proxmox](https://github.com/Peter-Ignacek/homelab-proxmox) | ✅ Active |
 | Media | Plex Media Server | [homelab-plex](https://github.com/Peter-Ignacek/homelab-plex) | ✅ Active |
 | Smart Home | Home Assistant | [home-assistant-multi-site](https://github.com/Peter-Ignacek/home-assistant-multi-site) | ✅ Active |
-| Documents | Paperless-ngx | Planned | 📝 To document |
+| Documents | Paperless-ngx — self-hosted document management | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/paperless-ngx.md) | ✅ Active |
 | Business administration | Invoice Ninja — self-hosted invoicing / business administration | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/invoice-ninja.md) | ✅ Active |
 | PDF processing | Stirling PDF — self-hosted PDF processing | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/stirling-pdf.md) | ✅ Active |
 | Document signing | DocuSeal — self-hosted document signing | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/docuseal.md) | ✅ Active |
-| Reverse Proxy | Nginx Proxy Manager | Planned | 📝 To document |
-| DNS / Security | AdGuard | Planned | 📝 To document |
+| Reverse Proxy | Nginx Proxy Manager — DE and PL reverse proxy with HTTPS / Let's Encrypt | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/nginx-proxy-manager.md) | ✅ Active |
+| DNS / Security | AdGuard Home — DE and PL DNS filtering | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/adguard-home.md) | ✅ Active |
 | Monitoring | Uptime Kuma | [homelab-uptime-kuma](https://github.com/Peter-Ignacek/homelab-uptime-kuma) | ✅ Active |
 | Inventory / DCIM | NetBox | [homelab-netbox](https://github.com/Peter-Ignacek/homelab-netbox) | ✅ Active |
 | Operations | Backup & Maintenance Control Board | Planned | 📝 To document |
-| Backup | Duplicati | Planned | 📝 To document |
-| Backup | Proxmox Backup Server | Planned | 📝 To document |
+| Backup | Duplicati — DE encrypted multi-destination backup | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/duplicati.md) | ✅ Active |
+| Backup | Proxmox Backup Server — DE and PL daily VM/LXC backups with cross-site resilience | [homelab-proxmox documentation](https://github.com/Peter-Ignacek/homelab-proxmox/blob/main/docs/services/proxmox-backup-server.md) | ✅ Active |
 | Network | UniFi Network | [UniFi-Network](https://github.com/Peter-Ignacek/UniFi-Network) | 🚧 In progress |
 | Security | UniFi Protect | [UniFi-Protect](https://github.com/Peter-Ignacek/UniFi-Protect) | 🚧 In progress |
 | Power | UPS Monitoring | [homelab-ups](https://github.com/Peter-Ignacek/homelab-ups) | ✅ Active |
